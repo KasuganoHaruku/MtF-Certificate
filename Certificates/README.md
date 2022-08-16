@@ -2,7 +2,7 @@
 
 ![HLG (part 1/2)](HLG-Cer.png)
 
-![HLG (part 2/2)](HLG-Cer2.png)
+![HLG (part 2/2)](HLG-Cer1.png)
 
 ---
 
