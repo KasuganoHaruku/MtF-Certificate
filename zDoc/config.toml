@@ -1,0 +1,4 @@
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'zdoc'
+baseURL = 'https://kasuganoharuku.github.io/MtF-Certificate/'
